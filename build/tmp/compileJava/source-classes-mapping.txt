@@ -1,0 +1,6 @@
+com/selenium/autoit/base/BaseClass.java
+ com.selenium.autoit.base.BaseClass
+com/selenium/autoit/pages/Login.java
+ com.selenium.autoit.pages.Login
+com/selenium/autoit/pages/Dashboard.java
+ com.selenium.autoit.pages.Dashboard

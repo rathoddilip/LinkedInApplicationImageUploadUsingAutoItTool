@@ -1,0 +1,2 @@
+com/selenium/autoit/test/LoginTest.java
+ com.selenium.autoit.test.LoginTest

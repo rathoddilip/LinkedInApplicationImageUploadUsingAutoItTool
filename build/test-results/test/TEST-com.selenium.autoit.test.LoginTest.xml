@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.autoit.test.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-15T10:58:35" hostname="DILIP" time="55.098">
+  <properties/>
+  <testcase name="loginAndUploadImage" classname="com.selenium.autoit.test.LoginTest" time="55.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
